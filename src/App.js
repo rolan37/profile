@@ -4,8 +4,14 @@ import Page from './Page';
 
 
 function App() {
+  
   return(
-    <Page/>
+    <div className='App'>
+      <Page/>
+    </div>
+    
+    
+    
   );
 }
 

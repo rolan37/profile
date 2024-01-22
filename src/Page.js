@@ -8,10 +8,10 @@ import SocialMedia from './routes/SocialMedia';
 import Footer from './routes/Footer';
 
 
-
 export default function Page(){
     return(
         <div>
+            
             <Navbar/> 
             <Name/>
             <Profile/>

@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import github from './images/github-b.png';
+import github from './images/github.png';
 import facebook from './images/facebook.png';
 import linkedin from './images/linkedin.png';
 import whatsapp from './images/whatsapp.png';
